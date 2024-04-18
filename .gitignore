@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Unit test / coverage reports
+.coverage
+.htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment directories
+.env
+.venv
+
+# Mac OS
+.DS_Store
